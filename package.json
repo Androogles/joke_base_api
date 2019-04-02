@@ -1,0 +1,22 @@
+{
+  "name": "joke_base_restapi",
+  "version": "1.0.0",
+  "description": "RESTapi containing jokes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Androogles/joke_base_api.git"
+  },
+  "author": "Andreas Kraft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Androogles/joke_base_api/issues"
+  },
+  "homepage": "https://github.com/Androogles/joke_base_api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
